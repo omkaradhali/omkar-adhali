@@ -8,6 +8,7 @@ const GlobalStyles = createGlobalStyle`
     --yellow: #ffc600;
     --white: #fff;
     --grey: #efefef;
+    --green: #03A062;
   }
   html {
     background-color: rgb(32,32,35);
